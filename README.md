@@ -210,4 +210,4 @@ MuseScore is offered as a complete free version with all features and updates in
 Unlock your musical potential today with MuseScore! Download now and start composing amazing scores effortlessly.
 
 ---
-**Last updated:** 2026-10-11 20:46:23 UTC
+**Last updated:** 2026-10-12 00:11:12 UTC
